@@ -68721,7 +68721,7 @@ r=A.aJ(a,o,n).w.a.a>768&&!A.j1(a)?32:80
 q=A.aJ(a,o,n).w.a.a>768?m/5.5:m/1.75
 n=A.aJ(a,o,n).w.a.a>768?m/7.25:m/2.25
 p=new A.bj(B.a3,3,B.K,-1)
-return new A.cr(new A.aR(0,r,0,0),A.oW(A.wG(B.cI,A.a([A.abT(A.eD(o,o,B.r,o,o,new A.fF(o,o,new A.di(p,p,p,p),A.nR(6),o,o,B.bz),o,q,o,o,o,o,n),B.aC,l,o),A.ad3(20,A.abT(new A.BP(A.nR(6),A.agW("assets/images/avt.png",B.xC,1,o),o),B.aC,s,o),o,o,o,20,-20,o)],t.D),B.r,B.fi),B.A,new A.a7z(),new A.a7A(),o),o)}}
+return new A.cr(new A.aR(0,r,0,0),A.oW(A.wG(B.cI,A.a([A.abT(A.eD(o,o,B.r,o,o,new A.fF(o,o,new A.di(p,p,p,p),A.nR(6),o,o,B.bz),o,q,o,o,o,o,n),B.aC,l,o),A.ad3(20,A.abT(new A.BP(A.nR(6),A.agW("assets/irshad.jpg",B.xC,1,o),o),B.aC,s,o),o,o,o,20,-20,o)],t.D),B.r,B.fi),B.A,new A.a7z(),new A.a7A(),o),o)}}
 A.a7z.prototype={
 $1(a){return null},
 $S:43}
@@ -68741,7 +68741,7 @@ $0(){return A.hl("shanulhakeem60@gmail.com")},
 $S:0}
 A.DQ.prototype={
 J(a){var s,r,q,p=null,o=t.w,n=A.aJ(a,p,o).w,m=t.D,l=A.a([],m)
-if(A.aJ(a,p,o).w.a.a>768&&!A.j1(a))l.push(A.D_(B.Ps,A.agW("assets/images/avtNoBg.png",B.xB,A.j1(a)?4:2.5,250),B.kG))
+if(A.aJ(a,p,o).w.a.a>768&&!A.j1(a))l.push(A.D_(B.Ps,A.agW("assets/irshad_background.png",B.xB,A.j1(a)?4:2.5,250),B.kG))
 l.push(A.kE(p,p,A.aJ(a,p,o).w.a.a>768&&!A.j1(a)?30:0))
 s=A.hX(B.Pz,B.x4,B.kG,!1)
 r=A.jJ("Shanul Hakeem T.",A.aJ(a,p,o).w.a.a<768?40:72,1,B.wn)
